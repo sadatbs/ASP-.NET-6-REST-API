@@ -1,0 +1,12 @@
+D:\Streamstech\C#\Amichai Matiband tutorial\ASP .NET 6 REST API\BuberDinner.Domain\bin\Debug\net7.0\BuberDinner.Domain.deps.json
+D:\Streamstech\C#\Amichai Matiband tutorial\ASP .NET 6 REST API\BuberDinner.Domain\bin\Debug\net7.0\BuberDinner.Domain.dll
+D:\Streamstech\C#\Amichai Matiband tutorial\ASP .NET 6 REST API\BuberDinner.Domain\bin\Debug\net7.0\BuberDinner.Domain.pdb
+D:\Streamstech\C#\Amichai Matiband tutorial\ASP .NET 6 REST API\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.csproj.AssemblyReference.cache
+D:\Streamstech\C#\Amichai Matiband tutorial\ASP .NET 6 REST API\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Streamstech\C#\Amichai Matiband tutorial\ASP .NET 6 REST API\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.AssemblyInfoInputs.cache
+D:\Streamstech\C#\Amichai Matiband tutorial\ASP .NET 6 REST API\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.AssemblyInfo.cs
+D:\Streamstech\C#\Amichai Matiband tutorial\ASP .NET 6 REST API\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.csproj.CoreCompileInputs.cache
+D:\Streamstech\C#\Amichai Matiband tutorial\ASP .NET 6 REST API\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.dll
+D:\Streamstech\C#\Amichai Matiband tutorial\ASP .NET 6 REST API\BuberDinner.Domain\obj\Debug\net7.0\refint\BuberDinner.Domain.dll
+D:\Streamstech\C#\Amichai Matiband tutorial\ASP .NET 6 REST API\BuberDinner.Domain\obj\Debug\net7.0\BuberDinner.Domain.pdb
+D:\Streamstech\C#\Amichai Matiband tutorial\ASP .NET 6 REST API\BuberDinner.Domain\obj\Debug\net7.0\ref\BuberDinner.Domain.dll

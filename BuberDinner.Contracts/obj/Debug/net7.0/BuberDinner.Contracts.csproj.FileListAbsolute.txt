@@ -1,0 +1,12 @@
+D:\Streamstech\C#\Amichai Matiband tutorial\ASP .NET 6 REST API\BuberDinner.Contracts\bin\Debug\net7.0\BuberDinner.Contracts.deps.json
+D:\Streamstech\C#\Amichai Matiband tutorial\ASP .NET 6 REST API\BuberDinner.Contracts\bin\Debug\net7.0\BuberDinner.Contracts.dll
+D:\Streamstech\C#\Amichai Matiband tutorial\ASP .NET 6 REST API\BuberDinner.Contracts\bin\Debug\net7.0\BuberDinner.Contracts.pdb
+D:\Streamstech\C#\Amichai Matiband tutorial\ASP .NET 6 REST API\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.csproj.AssemblyReference.cache
+D:\Streamstech\C#\Amichai Matiband tutorial\ASP .NET 6 REST API\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Streamstech\C#\Amichai Matiband tutorial\ASP .NET 6 REST API\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.AssemblyInfoInputs.cache
+D:\Streamstech\C#\Amichai Matiband tutorial\ASP .NET 6 REST API\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.AssemblyInfo.cs
+D:\Streamstech\C#\Amichai Matiband tutorial\ASP .NET 6 REST API\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+D:\Streamstech\C#\Amichai Matiband tutorial\ASP .NET 6 REST API\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.dll
+D:\Streamstech\C#\Amichai Matiband tutorial\ASP .NET 6 REST API\BuberDinner.Contracts\obj\Debug\net7.0\refint\BuberDinner.Contracts.dll
+D:\Streamstech\C#\Amichai Matiband tutorial\ASP .NET 6 REST API\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.pdb
+D:\Streamstech\C#\Amichai Matiband tutorial\ASP .NET 6 REST API\BuberDinner.Contracts\obj\Debug\net7.0\ref\BuberDinner.Contracts.dll
