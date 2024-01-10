@@ -18,5 +18,13 @@ public class UnitTest1
         double result = AverageCalculator.ArithmeticMean(inputs);
         Assert.AreEqual(2.0, result, 1E-14);
     }
+
+    [TestMethod]
+    public void NoInputShouldGiveNegativeResult()
+    {
+        string[] inputs =  {};
+        double result = AverageCalculator.ArithmeticMean(inputs);
+        Assert.AreEqual(-1.0,result,1E-14);
+    }
     
 }
